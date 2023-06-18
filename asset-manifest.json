@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hm-with-reduxs/static/css/main.c7ec3132.css",
+    "main.js": "/hm-with-reduxs/static/js/main.1cd57537.js",
+    "index.html": "/hm-with-reduxs/index.html",
+    "main.c7ec3132.css.map": "/hm-with-reduxs/static/css/main.c7ec3132.css.map",
+    "main.1cd57537.js.map": "/hm-with-reduxs/static/js/main.1cd57537.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.1cd57537.js"
+  ]
+}
